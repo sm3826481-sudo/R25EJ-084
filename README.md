@@ -2,4 +2,6 @@ Hi, I am Nagendra B, a B.Tech student studying Computer Science and Information 
 
 Learning Python 
 
-INtrested in cloud computing
+INtrested in cloud computing 
+
+Goal:contribute to open source
